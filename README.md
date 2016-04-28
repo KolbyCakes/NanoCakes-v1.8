@@ -1,1 +1,1 @@
-# http://NanoCakes-v1.8.github.io
+https://github.com/KolbyCakes/NanoCakes-v1.8.git
